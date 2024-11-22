@@ -1,2 +1,2 @@
 # American-math-competence
-记录美赛备赛过程
+ welcome to skhelife 本仓库用于记录美赛备赛过程
